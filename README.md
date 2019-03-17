@@ -1,1 +1,5 @@
-# OKEX-V3-PHP-API
+## OKEX AUTO TRADING SCRIPT
+
+Base on okex v3 API.
+
+
